@@ -12,5 +12,12 @@ Format to contribute:
 
 [Shrutik](https://github.com/Shrutik1008)
 
+<<<<<<< Anjali_Sonavane
+[Anjali Sonavane](https://github.com/AnjaliSonavane10)
+
+>>>>>>> main
+>>>>>>> main
+=======
 [Sneha](https://github.com/Snehap1104)
 
+>>>>>>> main
