@@ -18,3 +18,5 @@ Format to contribute:
 
 [Sneha](https://github.com/Snehap1104)
 
+[komal kalshetti](https://github.com/Stud-KK)
+
