@@ -8,16 +8,13 @@ Format to contribute:
 
 [SanjnaMutkiri](https://github.com/sanjanamutkiri)
 
+[snehajain16](https://github.com/snehajain16)
+
 [TEJAS](https://github.com/Surge77)
 
 [Shrutik](https://github.com/Shrutik1008)
 
-<<<<<<< Anjali_Sonavane
 [Anjali Sonavane](https://github.com/AnjaliSonavane10)
 
->>>>>>> main
->>>>>>> main
-=======
 [Sneha](https://github.com/Snehap1104)
 
->>>>>>> main
