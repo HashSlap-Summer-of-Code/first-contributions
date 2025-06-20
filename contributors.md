@@ -20,3 +20,4 @@ Format to contribute:
 
 [komal kalshetti](https://github.com/Stud-KK)
 
+[Aishwarya](https://github.com/aishak13)
