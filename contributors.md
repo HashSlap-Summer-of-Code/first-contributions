@@ -20,3 +20,5 @@ Format to contribute:
 
 [komal kalshetti](https://github.com/Stud-KK)
 
+[Ishwaree Patil](https://github.com/ishupatil)
+
