@@ -29,3 +29,5 @@ Format to contribute:
 [Swaraj Kale] (https://github.com/SwarajKale04)
 
 [Chunmun](https://github.com/Chunmun-18)
+
+[Arpita Baraskar](https://github.com/ArpitaBaraskar)
