@@ -1,6 +1,6 @@
 Format to contribute:
 
-[Yash Patil](https://github.com/YashPatil117) 
+[Yash Patil](https://github.com/YashPatil117)
 
 [Ankush1oo8](https://github.com/Ankush1oo8)
 
@@ -31,3 +31,5 @@ Format to contribute:
 [Chunmun](https://github.com/Chunmun-18)
 
 [Arpita Baraskar](https://github.com/ArpitaBaraskar)
+
+[Manasi Gade](https://github.com/manasi-gade07)
