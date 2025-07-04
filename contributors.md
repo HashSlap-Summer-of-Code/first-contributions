@@ -37,3 +37,4 @@ Format to contribute:
 [Nzenwata Christopher](https://github.com/Chris-Error-404)
 
 - [Siddharth](https://github.com/detective116)
+[Rahul Nawale](https://github.com/blackcat)
