@@ -35,3 +35,5 @@ Format to contribute:
 [Manasi Gade](https://github.com/manasi-gade07)
 
 [Nzenwata Christopher](https://github.com/Chris-Error-404)
+
+- [Siddharth](https://github.com/detective116)
