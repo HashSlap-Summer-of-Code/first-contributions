@@ -43,3 +43,6 @@ Format to contribute:
 
 
 [Sam](https://github.com/HackersSpirit)
+
+
+[Nwaoduh Chiebuka Alex](https://github.com/nwaoduhebuka-pixel)
