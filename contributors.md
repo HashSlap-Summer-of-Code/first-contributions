@@ -37,9 +37,10 @@ Format to contribute:
 [Nzenwata Christopher](https://github.com/Chris-Error-404)
 
 - [Siddharth](https://github.com/detective116)
-[Rahul Nawale](https://github.com/blackcat)
+  [Rahul Nawale](https://github.com/blackcat)
 
 [Tamunodein Jedidiah Anyanwu](https://github.com/PrinceOdein)
 
-
 [Sam](https://github.com/HackersSpirit)
+
+- [Sonu S](https://github.com/Sonu0407)
